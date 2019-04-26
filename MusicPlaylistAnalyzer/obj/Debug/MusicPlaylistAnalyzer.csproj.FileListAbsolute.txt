@@ -1,0 +1,14 @@
+C:\Users\nam3vy\Desktop\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\MusicPlaylistAnalyzer.exe.config
+C:\Users\nam3vy\Desktop\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\MusicPlaylistAnalyzer.exe
+C:\Users\nam3vy\Desktop\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\MusicPlaylistAnalyzer.pdb
+C:\Users\nam3vy\Desktop\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.csprojAssemblyReference.cache
+C:\Users\nam3vy\Desktop\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\nam3vy\Desktop\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.exe
+C:\Users\nam3vy\Desktop\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.pdb
+C:\Users\Neeqo\Desktop\IT2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\MusicPlaylistAnalyzer.exe.config
+C:\Users\Neeqo\Desktop\IT2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\MusicPlaylistAnalyzer.exe
+C:\Users\Neeqo\Desktop\IT2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\MusicPlaylistAnalyzer.pdb
+C:\Users\Neeqo\Desktop\IT2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.csprojAssemblyReference.cache
+C:\Users\Neeqo\Desktop\IT2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Neeqo\Desktop\IT2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.exe
+C:\Users\Neeqo\Desktop\IT2040\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\MusicPlaylistAnalyzer.pdb
